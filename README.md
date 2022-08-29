@@ -1,4 +1,4 @@
-# TFT-doodles
+# TFT-distance-matrix
 
 Currently using data from Riot's Teamfight Tactics, Set 6: Gizmos & Gadgets
 
